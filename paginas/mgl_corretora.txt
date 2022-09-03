@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body background="imagem_fundo.jpg">
+    <font face="Tahoma" fonte size="3" color="black" /font>
+
+    <h1 align="center"> <b>MGL Corretora de Seguros</b></h1>
+    <hr color="black">
+    <p> Fundada em 2021 pelo Sr. Marcelo Gomes Lopes. A MGL Corretora de Seguros, conta com uma vasta cartela de cliente satisfeitos<br> Seja qual for a sa necessidade e MGL Corretora de Seguros, vai atende-lo. Seguro AUTO, Residêncial, Empresarial, Vida e Pets. Estamos prontos para melhor atende-los sempre! </p>
+    
+    <table border="1px" cellpadding="50" cellspacing="40" >
+        <tr>
+            <td> <img src="pq contratar.jpg.jpg" alt="" height="300px" >  </td>
+            <td> <img src="Cartao Marcelo.jpg.jpeg" alt="" height="300px" >  </td>
+        </tr>
+    </table>
+
+    <table border="1px" cellpadding="50" cellspacing="40" >
+        <caption> <big> <u>Seguro Auto e Moto</u> </big> </caption>
+        <tr>
+            <td> <img src="carro (2).jpg" alt="" height="200px" >  </td>
+            <td> Se você o dirige constantemente, e costuma deixá-lo parado na rua, é importante ter um seguro automóvel . Quanto mais usamos um veículo, mais exposto ele fica a riscos de acidentes, furto ou roubo. Além disso, ter o hábito de deixar o veículo estacionado na rua só aumenta esse risco. </td>
+            <td> <img src="Moto.jpg" alt="" height="200px" ></td>
+        </tr>
+    </table>
+
+    <table border="1px" cellpadding="50" cellspacing="40" >
+        <caption> <big> <u>Seguro de Casa</u> </big> </caption>
+            <td> O seguro residencial é um seguro compreensivo, pois oferece diversas coberturas, sendo que a mais comum é a cobertura contra incêndio, queda de raios e explosão. É destinado a residências individuais, casas e apartamentos, habituais ou de veraneio. </td>
+            <td> <img src="Casa.jpg" alt="" height="250px" >  </td>
+        </tr>
+    </table>
+
+    <table border="1px" cellpadding="50" cellspacing="40" >
+        <caption> <big> <u>Seguro Empresarial</u> </big> </caption>
+        <tr>
+            <td> <img src="Reunião.jpg" alt="" height="250px" > </td>
+            <td> O seguro empresarial é uma modalidade de seguro voltada para proteger o patrimônio e as operações de uma empresa que o contrata. Sua forma de atuação varia com o tipo de cobertura que é contratada, então é um produto que oferece a possibilidade de personalização. Independente do tamanho da sua empresa, a MGL Corretora de Seguros tem a melhor relação custo x benefício. Trabalhamos com as melhores seguradoras para melhor lhe atender sempre. </td>
+        </tr>
+    </table>
+
+    <table border="1px" cellpadding="50" cellspacing="40" >
+        <caption> <big> <u>Seguro de Vida</u> </big> </caption>
+        <tr>
+            <td> <img src="Pets.jpg" alt="" height="200px" ></td>
+            <td> Seguro de vida é um contrato no qual a seguradora se compromete a pagar uma quantia, a apólice de seguro, para os beneficiários do segurado, caso essa pessoa faleça por morte natural ou acidental. Os beneficiários, por sua vez, são escolhidos pela pessoa que faz a contratação do seguro de vida. </td>
+            <td> <img src="Familia.jpg" alt="" height="200px" > </td>
+        </tr>
+    </table>
+
+    <table border="1px" cellpadding="50" cellspacing="40" >
+    <caption> <big> <u>Trabalhando com as principais companhias</u> </big> </caption>
+    <tr>
+        <td> <img src="seguradoras.png" alt="" height="400px" ></td>
+        <td> <ol>
+            <li>Porto Seguro</li> 
+            <li>Itaú</li> 
+            <li>Bradesco</li> 
+            <li>SulAmerica</li> 
+            <li>Liberty</li> 
+            <li>Mapfre</li> 
+            <li>HDI Seguros</li>     
+        </ol>
+        </td>
+    
+    <table border="1px" cellpadding="50" cellspacing="40" >
+        <tr>
+            <td> </td>
+        </tr>
+    </table>
+
+</body>
+</html> 
